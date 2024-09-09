@@ -26,13 +26,7 @@ function App() {
             </div>
           </form>
           <div className="social-login">
-            <p>Or sign in with:</p>
-            <div className="social-icons">
-              <a href="#facebook" className="social-icon"><i className="fab fa-facebook-f"></i></a>
-              <a href="#gmail" className="social-icon"><i className="fab fa-google"></i></a>
-              <a href="#twitter" className="social-icon"><i className="fab fa-twitter"></i></a>
-              <a href="#github" className="social-icon"><i className="fab fa-github"></i></a>
-            </div>
+
           </div>
         </div>
       </main>
